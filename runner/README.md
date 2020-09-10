@@ -13,7 +13,7 @@ work for a desktop:
 ```bash
 ARCH=x86_64
 VERSION=0.3.0
-wget https://github.com/MycroftAI/mycroft-precise/releases/download/$VERSION/precise-all_${VERSION}_${ARCH}.tar.gz
+wget https://github.com/MycroftAI/mycroft-precise/releases/download/v$VERSION/precise-all_${VERSION}_${ARCH}.tar.gz
 tar xvf precise-engine.tar.gz
 ```
 
